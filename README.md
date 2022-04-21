@@ -2,6 +2,5 @@
 
 
 
-[Prologue](./prologue1)
-
-​	Python Types, Scope, Class
+-  [prolouge1](prolouge1) 
+  - Python Types, Scope, Class
