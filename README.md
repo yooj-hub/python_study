@@ -2,6 +2,6 @@
 
 
 
-[Prologue]("./prologue1")
+[Prologue](./prologue1)
 
 ​	Python Types, Scope, Class
