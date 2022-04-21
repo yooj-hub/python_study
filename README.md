@@ -1,2 +1,1 @@
-# README
-
+# Python Study Repository
